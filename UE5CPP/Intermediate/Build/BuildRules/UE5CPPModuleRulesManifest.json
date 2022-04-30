@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"H:\\WORK\\Learning Programming-Game Engines\\UnrealEngine\\Unreal5\\UE5CPP\\Source\\UE5CPP\\UE5CPP.Build.cs",
-		"H:\\WORK\\Learning Programming-Game Engines\\UnrealEngine\\Unreal5\\UE5CPP\\Source\\UE5CPP.Target.cs",
-		"H:\\WORK\\Learning Programming-Game Engines\\UnrealEngine\\Unreal5\\UE5CPP\\Source\\UE5CPPEditor.Target.cs"
-	],
-	"EngineVersion": "5.0.1"
-}
