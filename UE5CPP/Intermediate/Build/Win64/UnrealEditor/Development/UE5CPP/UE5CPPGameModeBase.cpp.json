@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "h:\\work\\learning programming-game engines\\unrealengine\\unreal5\\ue5cpp\\source\\ue5cpp\\ue5cppgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\work\\learning programming-game engines\\unrealengine\\unreal5\\ue5cpp\\intermediate\\build\\win64\\ue5cppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "h:\\work\\learning programming-game engines\\unrealengine\\unreal5\\ue5cpp\\intermediate\\build\\win64\\unrealeditor\\development\\ue5cpp\\definitions.ue5cpp.h",
+            "h:\\work\\learning programming-game engines\\unrealengine\\unreal5\\ue5cpp\\source\\ue5cpp\\ue5cppgamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "h:\\work\\learning programming-game engines\\unrealengine\\unreal5\\ue5cpp\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5cpp\\ue5cppgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

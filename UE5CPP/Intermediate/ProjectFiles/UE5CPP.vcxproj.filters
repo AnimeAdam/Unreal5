@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UE5CPP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE5CPP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UE5CPPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UE5CPP">
+      <UniqueIdentifier>{8A0E393D-500B-343C-BF22-85DC1C6C2237}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE5CPP\UE5CPP.Build.cs">
+      <Filter>Source\UE5CPP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UE5CPP\UE5CPP.cpp">
+      <Filter>Source\UE5CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5CPP\UE5CPP.h">
+      <Filter>Source\UE5CPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5CPP\UE5CPPGameModeBase.cpp">
+      <Filter>Source\UE5CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5CPP\UE5CPPGameModeBase.h">
+      <Filter>Source\UE5CPP</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UE5CPP",
+			"Path": "H:\\WORK\\Learning Programming-Game Engines\\UnrealEngine\\Unreal5\\UE5CPP\\Source\\UE5CPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UE5CPPEditor",
+			"Path": "H:\\WORK\\Learning Programming-Game Engines\\UnrealEngine\\Unreal5\\UE5CPP\\Source\\UE5CPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

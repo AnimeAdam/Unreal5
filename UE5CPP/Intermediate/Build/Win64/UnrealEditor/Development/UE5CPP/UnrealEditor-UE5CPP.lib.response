@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UE5CPP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:\WORK\Learning Programming-Game Engines\UnrealEngine\Unreal5\UE5CPP\Intermediate\Build\Win64\UE5CPPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"H:\WORK\Learning Programming-Game Engines\UnrealEngine\Unreal5\UE5CPP\Intermediate\Build\Win64\UnrealEditor\Development\UE5CPP\UE5CPP.cpp.obj"
+"H:\WORK\Learning Programming-Game Engines\UnrealEngine\Unreal5\UE5CPP\Intermediate\Build\Win64\UnrealEditor\Development\UE5CPP\UE5CPPGameModeBase.cpp.obj"
+"H:\WORK\Learning Programming-Game Engines\UnrealEngine\Unreal5\UE5CPP\Intermediate\Build\Win64\UnrealEditor\Development\UE5CPP\UE5CPP.init.gen.cpp.obj"
+"H:\WORK\Learning Programming-Game Engines\UnrealEngine\Unreal5\UE5CPP\Intermediate\Build\Win64\UnrealEditor\Development\UE5CPP\UE5CPPGameModeBase.gen.cpp.obj"
+"H:\WORK\Learning Programming-Game Engines\UnrealEngine\Unreal5\UE5CPP\Intermediate\Build\Win64\UnrealEditor\Development\UE5CPP\Default.rc2.res"
+/OUT:"H:\WORK\Learning Programming-Game Engines\UnrealEngine\Unreal5\UE5CPP\Intermediate\Build\Win64\UnrealEditor\Development\UE5CPP\UnrealEditor-UE5CPP.lib"
