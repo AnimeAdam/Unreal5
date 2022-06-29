@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealLearningKit",
+			"Path": "H:\\WORK\\Learning Programming-Game Engines\\UnrealEngine\\Unreal5\\ObstacleAssault\\UnrealLearningKit\\Source\\UnrealLearningKit.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealLearningKitEditor",
+			"Path": "H:\\WORK\\Learning Programming-Game Engines\\UnrealEngine\\Unreal5\\ObstacleAssault\\UnrealLearningKit\\Source\\UnrealLearningKitEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

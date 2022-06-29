@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealLearningKit.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealLearningKit.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealLearningKitEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Link to Source Assets.txt" />
+    <None Include="..\..\SCK_Casual01.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\UnrealLearningKit">
+      <UniqueIdentifier>{9398562A-D240-3B16-9299-4205B799D785}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealLearningKit\MovingPlatform.cpp">
+      <Filter>Source\UnrealLearningKit</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealLearningKit\MovingPlatform.h">
+      <Filter>Source\UnrealLearningKit</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UnrealLearningKit\UnrealLearningKit.Build.cs">
+      <Filter>Source\UnrealLearningKit</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealLearningKit\UnrealLearningKit.cpp">
+      <Filter>Source\UnrealLearningKit</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealLearningKit\UnrealLearningKit.h">
+      <Filter>Source\UnrealLearningKit</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

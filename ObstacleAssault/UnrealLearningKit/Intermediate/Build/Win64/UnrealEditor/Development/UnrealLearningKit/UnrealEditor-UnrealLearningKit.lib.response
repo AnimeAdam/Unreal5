@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UnrealLearningKit.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:\WORK\Learning Programming-Game Engines\UnrealEngine\Unreal5\ObstacleAssault\UnrealLearningKit\Intermediate\Build\Win64\UnrealLearningKitEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"H:\WORK\Learning Programming-Game Engines\UnrealEngine\Unreal5\ObstacleAssault\UnrealLearningKit\Intermediate\Build\Win64\UnrealEditor\Development\UnrealLearningKit\MovingPlatform.cpp.obj"
+"H:\WORK\Learning Programming-Game Engines\UnrealEngine\Unreal5\ObstacleAssault\UnrealLearningKit\Intermediate\Build\Win64\UnrealEditor\Development\UnrealLearningKit\UnrealLearningKit.cpp.obj"
+"H:\WORK\Learning Programming-Game Engines\UnrealEngine\Unreal5\ObstacleAssault\UnrealLearningKit\Intermediate\Build\Win64\UnrealEditor\Development\UnrealLearningKit\MovingPlatform.gen.cpp.obj"
+"H:\WORK\Learning Programming-Game Engines\UnrealEngine\Unreal5\ObstacleAssault\UnrealLearningKit\Intermediate\Build\Win64\UnrealEditor\Development\UnrealLearningKit\UnrealLearningKit.init.gen.cpp.obj"
+"H:\WORK\Learning Programming-Game Engines\UnrealEngine\Unreal5\ObstacleAssault\UnrealLearningKit\Intermediate\Build\Win64\UnrealEditor\Development\UnrealLearningKit\Default.rc2.res"
+/OUT:"H:\WORK\Learning Programming-Game Engines\UnrealEngine\Unreal5\ObstacleAssault\UnrealLearningKit\Intermediate\Build\Win64\UnrealEditor\Development\UnrealLearningKit\UnrealEditor-UnrealLearningKit.lib"

@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "h:\\work\\learning programming-game engines\\unrealengine\\unreal5\\obstacleassault\\unreallearningkit\\source\\unreallearningkit\\unreallearningkit.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\work\\learning programming-game engines\\unrealengine\\unreal5\\obstacleassault\\unreallearningkit\\intermediate\\build\\win64\\unreallearningkit\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "h:\\work\\learning programming-game engines\\unrealengine\\unreal5\\obstacleassault\\unreallearningkit\\intermediate\\build\\win64\\unrealgame\\development\\unreallearningkit\\definitions.unreallearningkit.h",
+            "h:\\work\\learning programming-game engines\\unrealengine\\unreal5\\obstacleassault\\unreallearningkit\\source\\unreallearningkit\\unreallearningkit.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

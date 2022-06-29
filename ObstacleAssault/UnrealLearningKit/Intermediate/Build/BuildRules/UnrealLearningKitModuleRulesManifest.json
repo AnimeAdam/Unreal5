@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"H:\\WORK\\Learning Programming-Game Engines\\UnrealEngine\\Unreal5\\ObstacleAssault\\UnrealLearningKit\\Source\\UnrealLearningKit\\UnrealLearningKit.Build.cs",
+		"H:\\WORK\\Learning Programming-Game Engines\\UnrealEngine\\Unreal5\\ObstacleAssault\\UnrealLearningKit\\Source\\UnrealLearningKit.Target.cs",
+		"H:\\WORK\\Learning Programming-Game Engines\\UnrealEngine\\Unreal5\\ObstacleAssault\\UnrealLearningKit\\Source\\UnrealLearningKitEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.2"
+}
