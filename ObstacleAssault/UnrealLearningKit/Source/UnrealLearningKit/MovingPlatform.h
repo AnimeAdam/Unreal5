@@ -23,4 +23,23 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+
+
+	UPROPERTY(EditAnywhere)
+	int32 myInt = 99;
+
+	UPROPERTY(EditAnywhere)
+	int32 myFloat= 5.99;
+
+	UPROPERTY(EditAnywhere)
+	int32 myBool = true;
+
+	UPROPERTY(EditAnywhere)
+	FVector myVectorFloat = FVector(14620.000000, -12220.000000, 4876.000000); //typedef UE::Math::TVector< double > FVector
+
+	FVector startLocation;
+	UPROPERTY(EditAnywhere, Category="Moving Platform")
+	FVector platformVelocity = FVector(100, 0, 0); //typedef UE::Math::TVector< double > FVector
+	UPROPERTY(EditAnywhere, Category="Moving Platform")
+	float moveDistance = 100;
 };
